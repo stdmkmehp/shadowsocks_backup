@@ -1,0 +1,9 @@
+{
+	"server": "::",
+	"port_password": {
+		"8388": "password",
+		"8381": "password"
+	},
+	"timeout": 300,
+	"method": "aes-256-cfb"
+}
