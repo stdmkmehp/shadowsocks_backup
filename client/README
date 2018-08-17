@@ -1,0 +1,3 @@
+Modify "server" in config_client.json with your server IP, then run ./client.sh.
+
+Set network proxy with SOCKS_v5 127.0.0.1:1080.
